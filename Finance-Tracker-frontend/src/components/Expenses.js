@@ -116,8 +116,8 @@ function Expenses() {
               }}
               className="w-full p-2 rounded-md"
             >
-              <option value={"credit"}>Credit</option>
-              <option value={"debit"}>Debit</option>
+              <option value={"credit"}Debit</option>
+              <option value={"debit"}>Credit</option>
             </select>
 
             <div className="text-md sm:text-xl my-2 ">Amount</div>
